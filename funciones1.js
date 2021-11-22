@@ -1,5 +1,5 @@
 "use strict";
-function saludar() {
+function saludar1() {
     console.log("saludar");
 }
-saludar();
+saludar1();
