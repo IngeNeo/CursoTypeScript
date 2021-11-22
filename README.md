@@ -1,2 +1,2 @@
 # CursoTypeScript
-TypeScript
+TypeScript Básico
